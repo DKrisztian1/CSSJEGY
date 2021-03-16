@@ -1,7 +1,6 @@
-
 header
 {
-    background-image: url(images/taj.png);
+background-image: url(images/taj.png);
 }
 
 #rajz
@@ -21,11 +20,20 @@ font-size: 5em;
 
 html
 {
-    background-color: (#9CEE59=RGB(156, 238, 89);
+    background-color:rgb(156, 238, 89);
     color: black;
 }
 
 a
 {
-    
+    color: rgb(153, 153, 153);
+}
+
+#alap
+{
+    border-spacing: 0px;
+    padding: 0px;
+    background-color: rgb(80, 144, 80);
+    margin: auto;
+    width: 980px;
 }
