@@ -1,0 +1,31 @@
+
+header
+{
+    background-image: url(images/taj.png);
+}
+
+#rajz
+{
+position: relative;
+left: 130px;
+top: 15px;
+}
+
+#cim
+{
+float: right;
+color: white;
+font-family: times new roman;
+font-size: 5em;
+}
+
+html
+{
+    background-color: (#9CEE59=RGB(156, 238, 89);
+    color: black;
+}
+
+a
+{
+    
+}
